@@ -56,7 +56,6 @@ public class PlayerControl : MonoBehaviour
         //  }
 
 
-
         //move to the right
         if (Input.GetKey(KeyCode.RightArrow))
         {
