@@ -48,7 +48,6 @@ public class PlayerControl : MonoBehaviour
             Debug.Log("W gore");
         }
 
-
         // if (Input.GetKey(KeyCode.DownArrow))
         //  {
         //    GetComponent<Rigidbody2D>().velocity = new Vector2(moveSpeed, GetComponent<Rigidbody2D>().velocity.x);
