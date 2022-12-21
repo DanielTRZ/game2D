@@ -21,7 +21,7 @@ public class PlayerControl : MonoBehaviour
     }
     void FixedUpdate()
     {
-        grouned = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, WhatIsGround);
+       grouned = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, WhatIsGround);
     }
     // Update is called once per frame
     void Update()
