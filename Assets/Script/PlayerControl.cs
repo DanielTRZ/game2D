@@ -70,4 +70,4 @@ public class PlayerControl : MonoBehaviour
        void Jump()
     {
         GetComponent<Rigidbody2D>().velocity = new Vector2(0, 
-        }
+    }
